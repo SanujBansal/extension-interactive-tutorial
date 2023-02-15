@@ -1,0 +1,12 @@
+#crx-root-unique-id {
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  z-index: 2147483647;
+  color: #152c5b;
+  font-size: 14px !important;
+  box-sizing: border-box;
+  background: #f8fbfe;
+  height: 100vh;
+  box-shadow: 3px 3px 8px 8px rgba(0, 0, 0, 0.3);
+}
